@@ -4,9 +4,9 @@ package com.zero4kevin;
  * Created by xi1zhang on 2017/4/7.
  */
 public class StringQuestions {
-    private static String (String args[]) throws Exception{
-        if (args[] !=null){
-            return args[];
+    private static String[] CheckParameters (String args[]) throws Exception{
+        if (args !=null){
+            return args;
         }else{
             throw new Exception("parameter is empty");
         }
