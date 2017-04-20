@@ -1,9 +1,7 @@
 package com.zero4kevin;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-/**
- * Created by xi1zhang on 2017/4/17.
- */
+
 public class MultiProgram implements Runnable {
      private String message;
      public MultiProgram(String s){
