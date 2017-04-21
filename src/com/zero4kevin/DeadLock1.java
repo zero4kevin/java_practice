@@ -1,6 +1,6 @@
 package com.zero4kevin;
 
-class Deadlock1 {
+class DeadLock1 {
     public static void main(String[] args) {
         final String resource1 = "ratan jaiswal";
         final String resource2 = "vimal jaiswal";
