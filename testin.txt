@@ -1,0 +1,1 @@
+kevin@zero4kevin:~/workspace/java_practice$ chmod 664 testin.txt
