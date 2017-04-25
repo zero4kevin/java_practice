@@ -1,0 +1,1 @@
+Seeking assessment for your engineering qualification and competencies for migration purposes? Start a Migration Skills Assessment application today!kevin@zero4kevin:~/workspace/java_practice$ chmod 664 testin.txt
