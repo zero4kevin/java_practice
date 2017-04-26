@@ -11,6 +11,6 @@ public class FilePermissionExample {
     public static void main(String[] args) throws IOException {
         String srg = "testout.txt";
         FilePermission fPermission= new FilePermission(".", "read");
-        PermissionCollection permCollect= fPermission.newPermissionCollection()
+        PermissionCollection permCollect= fPermission.newPermissionCollection();
     }
 }
