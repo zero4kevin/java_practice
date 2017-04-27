@@ -9,5 +9,6 @@ public class LinkedListExample {
     public static void main(String[] args){
         LinkedList<String> linkedList=new LinkedList<String>();
 
+
     }
 }
