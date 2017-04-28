@@ -20,8 +20,8 @@ public class HashSetExamples {
         HashSet<Book> books = new HashSet<Book>();
         Book b1 = new Book(1, "Thinking in Java", "Kevin", "BBC", 9);
         Book b2 = new Book(2, "Thinking in C", "Kevin", "BBC", 9);
-        books.add(b1);
         books.add(b2);
+        books.add(b1);
         for (Book book : books)
             System.out.println(book);
     }
